@@ -1,6 +1,6 @@
 Sou um desenvolvedor com preferência pelo backend. Tenho experiência com microserviços, aplicações web, serviços web e desktop. 
 
-As principais tecnologias com as quais já trabalhei são: Java, Kotlin, JavasSript e PHP. 
+As principais tecnologias com as quais já trabalhei são: Java, Kotlin, JavaScript e PHP. 
 
 Gosto de conhecer e testar novas tecnologias e sempre estou em busca de novos desafios. 
 
