@@ -1,7 +1,8 @@
-Sou um desenvolvedor com preferência pelo 
-end. Tenho experiência com microserviços, aplicações web, serviços web e desktop. 
+Sou um desenvolvedor com preferência pelo backend. Tenho experiência com microserviços, aplicações web, serviços web e desktop. 
 
-As principais tecnologias com as quais já trabalhei são Java, Kotlin, JavasSript e PHP. Gosto de conhecer e testar novas tecnologias e sempre estou em busca de novos desafios. 
+As principais tecnologias com as quais já trabalhei são: Java, Kotlin, JavasSript e PHP. 
+
+Gosto de conhecer e testar novas tecnologias e sempre estou em busca de novos desafios. 
 
 Natural de Porto Alegre/RS, atualmente morando em Curitiba/PR.
 
