@@ -1,4 +1,8 @@
-Sou um desenvolvedor Full Stack com preferência pelo back-end. Tenho experiências com programação tanto web quanto para serviços e desktop. As principais tecnologias com as quais costumo trabalhar são Java, PHP e JavasSript. Gosto de conhecer e testar novas tecnologias e sempre estou em busca de novos desafios. Natural de Porto Alegre/RS, atualmente morando em Campinas/SP.
+Sou um desenvolvedor com preferência pelo backend. Tenho experiência com microserviços, aplicações web, serviços web e desktop. 
+
+As principais tecnologias com as quais já trabalhei são Java, Kotlin, JavasSript e PHP. Gosto de conhecer e testar novas tecnologias e sempre estou em busca de novos desafios. 
+
+Natural de Porto Alegre/RS, atualmente morando em Curitiba/PR.
 
 # Experiências
 
