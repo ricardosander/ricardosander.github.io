@@ -3,11 +3,16 @@ Sou um desenvolvedor Full Stack com preferência pelo back-end. Tenho experiênc
 # Experiências
 
 ## iFood
+> Software Engineer, Desde Outubro de 2018
 
 ## Daitan Group
+> Desenvolvedor de Software, Dezembro de 2017 - Outubro de 2018
 
 ## Commbox Tecnologia
+> Desenvolvedor Java Service, Dezembro de 2016 - Novembro de 2017
 
 ## DBSeller Serviços de Informática
+> Programador, Março de 2015 - Novembro de 2016
 
 ## Nitrodev Agência Digital
+> Desenvolvedor Web, Novembro de 2012 - fevereiro de 2015
