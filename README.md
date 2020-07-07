@@ -1,10 +1,11 @@
-Sou um desenvolvedor com preferência pelo backend. Tenho experiência com microserviços, aplicações web, serviços web e desktop. 
+Sou um desenvolvedor com preferência pelo 
+end. Tenho experiência com microserviços, aplicações web, serviços web e desktop. 
 
 As principais tecnologias com as quais já trabalhei são Java, Kotlin, JavasSript e PHP. Gosto de conhecer e testar novas tecnologias e sempre estou em busca de novos desafios. 
 
 Natural de Porto Alegre/RS, atualmente morando em Curitiba/PR.
 
-# Projetos Independêntes
+# Projetos Independentes
 
 * [Imersão GameDev - Alura](https://ricardosander.github.io/ImersaoGameDev/)
 * [Estudos Docker - em progresso](https://ricardosander.github.io/Docker-para-Desenvolvedores-Java/)
@@ -14,10 +15,12 @@ Natural de Porto Alegre/RS, atualmente morando em Curitiba/PR.
 ## iFood
 > Software Engineer, Desde Outubro de 2018
 
+Desenvolvimento de soluções 
+
 ## Daitan Group
 > Desenvolvedor de Software, Dezembro de 2017 - Outubro de 2018
 
-Desenvolvedor Java, atuando no core back-end de uma aplicação de alta segurança para comunicação.
+Desenvolvedor Java, atuando no core backend de uma aplicação de alta segurança para comunicação.
 
 * Desenvolvimento Java com uso de Spring, Spring MVC, Spring Boot, Servlets, entre outros.
 * Contribuição com colaboradores de diversas partes do mundo.
