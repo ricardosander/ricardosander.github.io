@@ -4,7 +4,12 @@ As principais tecnologias com as quais já trabalhei são Java, Kotlin, JavasSri
 
 Natural de Porto Alegre/RS, atualmente morando em Curitiba/PR.
 
-# Experiências
+# Projetos Independêntes
+
+* [Imersão GameDev - Alura](https://ricardosander.github.io/ImersaoGameDev/)
+* [Estudos Docker - em progresso](https://ricardosander.github.io/Docker-para-Desenvolvedores-Java/)
+
+# Experiência Profissional
 
 ## iFood
 > Software Engineer, Desde Outubro de 2018
