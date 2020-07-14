@@ -10,6 +10,8 @@ Natural de Porto Alegre/RS, atualmente morando em Curitiba/PR.
 
 * [Imersão GameDev - Alura](https://ricardosander.github.io/ImersaoGameDev/)
 * [Estudos Docker - em progresso](https://ricardosander.github.io/Docker-para-Desenvolvedores-Java/)
+* [Estudos sobre Padrões de Microsserviços - em progresso](https://ricardosander.github.io/Padroes-de-Microservicos-Java/)
+* [Estudos sobre Defold (Game Engine) - em progresso](https://ricardosander.github.io/Defold/)
 
 # Experiência Profissional
 
