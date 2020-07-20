@@ -16,7 +16,7 @@ Natural de Porto Alegre/RS, atualmente morando em Curitiba/PR.
 # Experiência Profissional
 
 ## iFood
-> Software Engineer, Desde Outubro de 2018
+> Software Engineer, Desde Outubro de 2018. Atuando remotamente desde Outubro de 2019.
 
 ## Daitan Group
 > Desenvolvedor de Software, Dezembro de 2017 - Outubro de 2018
