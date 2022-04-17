@@ -4,7 +4,7 @@ As principais tecnologias com as quais já trabalhei são: Java, Kotlin, JavaScr
 
 Gosto de conhecer e testar novas tecnologias e sempre estou em busca de novos desafios. 
 
-Natural de Porto Alegre/RS, atualmente morando em Curitiba/PR.
+Porto Alegre, RS.
 
 # Projetos Independentes
 
